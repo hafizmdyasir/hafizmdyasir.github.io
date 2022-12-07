@@ -5,11 +5,11 @@ The page consists of the following four sections:
 ### 1. Intro
 Short introduction to myself and my works.
 
-### 2. Apps
-Showcases the apps I have built. Note that I did not include the libraries I created for Android app development since they are available anyway on GitHub. Perhaps some of my apps in the future might not be open-source and thus, they deserve a separate section more than libraries do.
+### 2. Coding
+Showcases the apps I have built and other projects I am working on. Note that I did not include the libraries I created for Android app development since they are available anyway on GitHub. Perhaps some of my apps in the future might not be open-source and thus, they deserve a separate section more than libraries do.
 My application related work will be moved later on to a separate website and this section will just serve as an "interface" between the two.
 
-### 3. Books
+### 3. Writing
 What is an author without his books? The books I publish will find their way here. Once again, once the list grows expansive, I will adjust this section since the profile page has to be short, simple, and lightweight.
 
 ### 4. Links
